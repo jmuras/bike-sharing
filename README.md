@@ -1,2 +1,2 @@
 # bike-sharing
-Predicting Bike-Sharing Data
+Predicting Bike-Sharing Patterns
